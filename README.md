@@ -12,7 +12,7 @@ with hands-on expertise in **technical leadership** and **architecture design**.
 
 ## 🛠️ Tech Stack
 
-**Python:**
+**Backend:**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -23,7 +23,7 @@ with hands-on expertise in **technical leadership** and **architecture design**.
 [![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?logo=python&logoColor=white)](https://docs.aiohttp.org)
 [![websockets](https://img.shields.io/badge/websockets-333333?logo=python&logoColor=white)](https://websockets.readthedocs.io/)
 
-**Databases & Caches:**
+**Data & Caching:**
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -31,7 +31,7 @@ with hands-on expertise in **technical leadership** and **architecture design**.
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
 
-**DevOps & Tools:**
+**DevOps & Environment:**
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
