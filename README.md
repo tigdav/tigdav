@@ -54,3 +54,13 @@ Production experience with:
 **Frontend:** [React](https://react.dev/), [HTML5](https://developer.mozilla.org/docs/Glossary/HTML5), [CSS3](https://www.w3.org/Style/CSS/)
 
 ---
+
+## 🌐 Links
+
+- ✉️ Email: [x@tigdav.ru](mailto:x@tigdav.ru)
+- ✈️ Telegram: [@tigdav](https://t.me/tigdav)
+- 🌍 Website (in Russian): https://tigdav.ru
+
+---
+
+📫 Open to opportunities — feel free to reach out!
