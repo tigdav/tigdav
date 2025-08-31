@@ -25,6 +25,7 @@ with a strong focus on **reliability** and **performance**.
 [![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 [![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?logo=python&logoColor=white)](https://docs.aiohttp.org)
 [![websockets](https://img.shields.io/badge/websockets-333333?logo=python&logoColor=white)](https://websockets.readthedocs.io/)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/en/stable/)
 
 **Data & Caching:**
 
