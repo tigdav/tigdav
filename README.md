@@ -4,9 +4,12 @@
 
 ### Welcome! I'm Tigran 👋 — Backend Developer
 
-I’ve built production systems ranging from **high-load game servers** to **bots and automation tools**.  
-Experienced in **scalability**, **asynchronous workflows**, and **systems integration**,
-with hands-on expertise in **technical leadership** and **architecture design**.
+I build scalable APIs, async services, and automation tools.  
+Production experience includes **high-load game servers**, **bots**, and **systems integration**.  
+Skilled in **scalability**, **asynchronous workflows**, and clean **architecture**,  
+with a strong focus on **reliability** and **performance**.
+
+> Most of my production work is private — full case studies (in **Russian**, with screenshots, videos, and notes) are on my [website](https://tigdav.ru/#portfolio).
 
 ---
 
