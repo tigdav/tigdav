@@ -2,7 +2,7 @@
   <img src="assets/logo.svg" alt="tigdav Logo" width="350"/>
 </p>
 
-### Welcome! I'm Tigran 👋 — Backend Developer
+<h3 align="center">Welcome! I'm Tigran 👋 — Backend Developer</h3>
 
 I build scalable APIs, async services, and automation tools.  
 Production experience includes **high-load game servers**, **bots**, and **systems integration**.  
