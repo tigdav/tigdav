@@ -49,7 +49,7 @@ with a strong focus on **reliability** and **performance**.
 
 Production experience with:
 
-**PHP:** [Slim](https://www.slimframework.com/), [Guzzle](https://docs.guzzlephp.org/), [ReactPHP](https://reactphp.org/), [PocketMine-MP](https://pmmp.io/)  
+**PHP:** [Slim](https://www.slimframework.com/), [Guzzle](https://docs.guzzlephp.org/), [ReactPHP](https://reactphp.org/) ([DiscordPHP](https://github.com/discord-php/DiscordPHP)), [PocketMine-MP](https://pmmp.io/)  
 **JavaScript:** [Node.js](https://nodejs.org/) ([discord.js](https://discord.js.org/))  
 **Frontend:** [React](https://react.dev/), [HTML5](https://developer.mozilla.org/docs/Glossary/HTML5), [CSS3](https://www.w3.org/Style/CSS/)
 
