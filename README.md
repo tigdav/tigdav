@@ -20,6 +20,7 @@ with a strong focus on **reliability** and **performance**.
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![aiogram](https://img.shields.io/badge/aiogram-2C5BB4?logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
 [![Requests](https://img.shields.io/badge/Requests-3776AB?logo=python&logoColor=white)](https://requests.readthedocs.io/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4B8BBE?logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 [![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
