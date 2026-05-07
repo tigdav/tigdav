@@ -5,9 +5,8 @@
 <h3 align="center">Welcome! I'm Tigran 👋 — Backend Developer</h3>
 
 I build scalable APIs, async services, and automation tools.  
-Production experience includes **high-load game servers**, **bots**, and **systems integration**.  
-Skilled in **scalability**, **asynchronous workflows**, and clean **architecture**,  
-with a strong focus on **reliability** and **performance**.
+Production experience includes **game servers**, **bots**, and **systems integration**.  
+Comfortable with **asynchronous workflows**, REST API design, and clean architecture.
 
 > Most of my production work is private — full case studies (in **Russian**, with screenshots, videos, and notes) are on my [website](https://tigdav.ru/#portfolio).
 
