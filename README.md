@@ -74,7 +74,7 @@ Production experience with:
 
 - ✉️ Email: [x@tigdav.ru](mailto:x@tigdav.ru)
 - ✈️ Telegram: [@tigdav](https://t.me/tigdav)
-- 🌍 Website (in Russian): https://tigdav.ru
+- 🌍 Website (in Russian): [tigdav.ru](https://tigdav.ru)
 
 ---
 
