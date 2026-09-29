@@ -5,7 +5,7 @@
 <h3 align="center">Welcome! I'm Tigran 👋</h3>
 
 I build backend services and APIs with a focus on async workflows, integrations, and reliable data processing.  
-My work spans **game servers**, **bots**, and **systems integration**, including REST/gRPC APIs, message queues, caching, and observability.  
+My work spans **game development**, **entertainment**, **fintech**, and **education**: APIs, bots and integrations for products with real users, built with REST/gRPC, message queues, caching, and observability.  
 I care about clean architecture, explicit error handling, tests, and maintainable code.
 
 > Most of my production work is private. On my site I share [detailed case studies](https://tigdav.ru/en/projects/) with screenshots, feature breakdowns, and selected videos.
