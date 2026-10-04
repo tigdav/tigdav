@@ -8,7 +8,7 @@ I build backend services and APIs with a focus on async workflows, integrations,
 My work spans **game development**, **entertainment**, **fintech**, and **education**: APIs, bots and integrations for products with real users, built with REST/gRPC, message queues, caching, and observability.  
 I care about clean architecture, explicit error handling, tests, and maintainable code.
 
-> Most of my production work is private. On my site I share [detailed case studies](https://tigdav.ru/en/projects/) with screenshots, feature breakdowns, and selected videos.
+> Most of my production work is private. On my site I share [detailed case studies](https://tigdav.com/en/projects/) with screenshots, feature breakdowns, and selected videos.
 
 ---
 
@@ -74,7 +74,7 @@ Production experience with:
 
 - ✉️ Email: [x@tigdav.ru](mailto:x@tigdav.ru)
 - ✈️ Telegram: [@tigdav](https://t.me/tigdav)
-- 🌍 Website: [tigdav.ru](https://tigdav.ru/en/)
+- 🌍 Website: [tigdav.com](https://tigdav.com/en/)
 
 ---
 
