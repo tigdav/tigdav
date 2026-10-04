@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="tigdav Logo" width="350"/>
+  <a href="https://tigdav.com/en/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo.svg">
+      <img src="assets/logo-light.svg" alt="tigdav Logo" width="350">
+    </picture>
+  </a>
 </p>
 
 <h3 align="center">Welcome! I'm Tigran 👋</h3>
